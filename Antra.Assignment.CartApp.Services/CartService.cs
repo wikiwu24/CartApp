@@ -35,7 +35,7 @@ namespace Antra.Assignment.CartApp.Services
             }
         }
 
-        public void SaveOrder(int CustomerId, Dictionary<int, int> productList, bool coupon)
+        public string SaveOrder(int CustomerId, Dictionary<int, int> productList, bool coupon)
         {
             productRepository = new ProductRepository();
             orderRepository = new OrderRepository();
@@ -60,30 +60,25 @@ namespace Antra.Assignment.CartApp.Services
                 od.Quantity = item.Value;
                 od.Discount = coupon;
                 odList.Add(od);
-                Console.WriteLine(od.Order.OrderId);
+                
                 
             }
-            
-            try
-            {
-                foreach (var item in odList)
-                {
-                    int orderdetail = orderDetailRepository.Insert(item);
-                    if (orderId <= 0 || orderdetail <= 0)
-                    {
-                        Console.WriteLine("Oops! There is something wrong!");
 
-                    }
-                }                
-                
-                    Console.WriteLine("Your order has Completed!");
-                
-            }
-            catch (Exception e)
+            string message = null;
+            foreach (var item in odList)
             {
-                Console.WriteLine("Oops! There is something wrong!");
-                Console.WriteLine(e.Message);
-            }
+                 int orderdetail = orderDetailRepository.Insert(item);
+                 if (orderId <= 0 || orderdetail <= 0)
+                 {
+                     return  message = "Oops! There is something wrong!";
+
+                 }
+            }                
+                
+                 return message = "Your order has Completed!";
+                
+            
+                
 
         }
 
