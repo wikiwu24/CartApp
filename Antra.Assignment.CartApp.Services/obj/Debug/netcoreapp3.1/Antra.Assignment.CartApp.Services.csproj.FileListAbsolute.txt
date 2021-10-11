@@ -1,0 +1,15 @@
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Services\bin\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Services.deps.json
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Services\bin\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Services.dll
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Services\bin\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Services.pdb
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Services\bin\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Data.Model.dll
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Services\bin\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Data.Repository.dll
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Services\bin\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Data.Repository.pdb
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Services\bin\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Data.Model.pdb
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Services\obj\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Services.csproj.AssemblyReference.cache
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Services\obj\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Services\obj\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Services.AssemblyInfoInputs.cache
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Services\obj\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Services.AssemblyInfo.cs
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Services\obj\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Services\obj\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Services.csproj.CopyComplete
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Services\obj\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Services.dll
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Services\obj\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Services.pdb

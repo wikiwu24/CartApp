@@ -1,0 +1,10 @@
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Data.Model\bin\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Data.Model.deps.json
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Data.Model\bin\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Data.Model.dll
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Data.Model\bin\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Data.Model.pdb
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Data.Model\obj\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Data.Model.csproj.AssemblyReference.cache
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Data.Model\obj\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Data.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Data.Model\obj\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Data.Model.AssemblyInfoInputs.cache
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Data.Model\obj\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Data.Model.AssemblyInfo.cs
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Data.Model\obj\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Data.Model\obj\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Data.Model.dll
+C:\Users\wuke9\source\repos\Antra.Assignment.CartApp\Antra.Assignment.CartApp.Data.Model\obj\Debug\netcoreapp3.1\Antra.Assignment.CartApp.Data.Model.pdb
