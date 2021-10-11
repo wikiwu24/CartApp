@@ -1,0 +1,8 @@
+####Return newly inserted identity using Dapper
+
+string insertQuery = @"INSERT INTO Customers
+                        OUTPUT INSERTED.[CustomerId]
+                        VALUES(@FullName);";
+
+//return the CUstomerId  
+return conn.QuerySingle<int>(insertQuery,new {@FullName = item.FullName});
