@@ -71,7 +71,7 @@ namespace Antra.Assignment.CartApp.UI
                                 {
                                     CustomerId = Convert.ToInt32(input);
                                 }
-                                cartService.SaveOrder(CustomerId, products, coupon);
+                                Console.WriteLine(cartService.SaveOrder(CustomerId, products, coupon));
                                 Console.WriteLine("Thanks For Shopping With Us!");
 
                             }
